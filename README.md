@@ -3,4 +3,4 @@ Nombre de los alumnos:
 
 Ley Gomez Leonardo Jared
 
-Ramos Vazquez Francisco Javier
+Ramos Vazquez Francisco
